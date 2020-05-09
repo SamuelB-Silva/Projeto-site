@@ -7,9 +7,9 @@ body {
 }
 
 main{
-    background-color: blue;
+    background-color: darkslategray;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: blueviolet;
+    box-shadow: darkgrey;
 }
